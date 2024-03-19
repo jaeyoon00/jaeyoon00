@@ -9,7 +9,10 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwero55)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jaeyoon00&Demo&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon00&layout=compact&theme=highcontrast)
+
+레이아웃 : Demo(기본 값), compact
+스타일 옵션: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 <!--
 **jaeyoon00/jaeyoon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
