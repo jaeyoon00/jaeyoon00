@@ -1,11 +1,15 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Play Data
+
+- i can use....
   
-- ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-- ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwero55)
+- backjoon
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwero55)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jaeyoon00&Demo&theme=dark)
 
 <!--
 **jaeyoon00/jaeyoon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
