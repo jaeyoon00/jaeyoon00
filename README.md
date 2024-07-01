@@ -37,7 +37,7 @@
 </div>
 <br>
 <div align="center">
-  <h3 align="center">📚 Studying backjoon 📚</h3>
+ <!-- <h3 align="center">📚 Studying backjoon 📚</h3>-->
 
 <!--![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwero55)-->
 
