@@ -39,7 +39,7 @@
 <div align="center">
   <h3 align="center">📚 Studying backjoon 📚</h3>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwero55)
+<!--![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwero55)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon00&layout=compact&theme=highcontrast)
 </div>
